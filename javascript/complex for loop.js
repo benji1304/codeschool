@@ -34,3 +34,5 @@ for (var genNum = 1; genNum < totalGen + 1; genNum++) {
         console.log("Generator #" + genNum + " is off.")
         }
   } 
+
+  //minor comment
